@@ -5,17 +5,17 @@ console.log(" IF_ELSE ")
 let numAleatorio = Math.random(0-1)
 console.log("El numero es: " + numAleatorio)
 
-/* if (numAleatorio < 0.5) {
+ if (numAleatorio < 0.5) {
     alert("“Greater than 0,5")
 
 } else {
     alert("Lower than 0.5")
-} */
+} 
 
 //B)
 let Age = Math.random(0-100);
 console.log("La edad es: " + Age)
-/* if (Age < 2) {
+ if (Age < 2) {
     alert("Bebe");
 } else if (Age >= 2 && Age <= 12) {
     alert("Niño");
@@ -29,5 +29,5 @@ console.log("La edad es: " + Age)
     alert("Adulto mayor");
 } else {
     alert("Anciano");
-} */
+} 
     
